@@ -92,3 +92,6 @@ bin
 obj
 appsettings.json
 local.settings.json
+
+# Copilot files
+.github/copilot*
